@@ -22,7 +22,7 @@ setup(
     url='https://github.com/ebelter/upserve-analysis.git',
     install_requires=[
         'click==7.0',
-        'pyyaml==5.1',
+        'pyyaml==5.4',
         'Jinja2>=2.10.1',
     ],
     entry_points='''
